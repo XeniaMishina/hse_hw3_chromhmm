@@ -46,3 +46,22 @@ A549	| H4K20me1	| H4K20me1.bam	| Control.bam
     <img src="https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTES_neighborhood.png" alt="Фотография" width="470" height="370">
   </p>
   
+  ## Эпигенетические типы
+  
+  Тип | Название | Описание | Картинка
+ --- | --- | ---| ---
+1 | - | <ul><li> наиболее выражен в H3K27me3 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/1.png)
+2 | - | <ul><li> не попадает на ген  </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/2.png)
+3 | - | <ul><li> наиболее выражен в H3K9me3 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/3.png)
+4 | - | <ul><li> наиболее выражен в H3K9me3, H3K36me3, менее выражен в H3K79me2 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/4.png)
+5 | - | <ul><li> наиболее выражен в H3K36me3 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/5.png)
+6 | - | <ul><li> наиболее выражен в H3K79me2, менее выражен в H4K20me1, H3K36me3 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/6.png)
+7 | - | <ul><li> наиболее выражен в H3K79me2, H3K4me1 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/7.png)
+8 | - | <ul><li> наиболее выражен в H3K4me1 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/8.png)
+9 | - | <ul><li> наиболее выражен в H3K4me1, менее выражен в H3K4me2, H3K27ac, H3K9ac </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/9.png)
+10 | - | <ul><li> наиболее выражен в H3K4me1, H3K4me2, H3K4me3, H3K27ac, H3K9ac </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/10.png)
+11 | - | <ul><li> наиболее выражен в H3K4me2, H3K4me3, H3K27ac, H3K9ac </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/11.png)
+12 | - | <ul><li> наиболее выражен в H3K4me2, H3K4me3, H3K27ac, H3K9ac, H3K79me2 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/12.png)
+13 | - | <ul><li> наиболее выражен в H3K4me1, H3K4me2, H3K4me3, H3K27ac, H3K9ac, H3K79me2 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/13.png)
+14 | - | <ul><li> наиболее выражен в H3K4me1, H3K4me2 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/14.png)
+15 | - | <ul><li> наиболее выражен в H3K4me2, менее выражен в H3K4me3, H3K27me3 </li><li> попадает </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/15.png)
