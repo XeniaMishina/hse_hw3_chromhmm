@@ -13,7 +13,7 @@ H3K27me3	| wgEncodeBroadHistoneA549H3k27me3Dex100nmAlnRep1.bam
 H3K36me3	| wgEncodeBroadHistoneA549H3k36me3Dex100nmAlnRep1.bam
 H3K4me1	| wgEncodeBroadHistoneA549H3k04me1Dex100nmAlnRep1.bam
 H3K4me2	| wgEncodeBroadHistoneA549H3k04me2Dex100nmAlnRep1.bam
-H3K4me3	| wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k04me3Dex100nmAlnRep1.bam 
+H3K4me3	| wgEncodeBroadHistoneA549H3k04me3Dex100nmAlnRep1.bam 
 H3K79me2	| wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam
 H3K9ac	| wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam
 H3K9me3	| wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam
@@ -33,3 +33,12 @@ A549	| H3K79me2	| H3K79me2.bam	| Control.bam
 A549	| H3K09ac	| H3K09ac.bam	| Control.bam
 A549	| H3K09me3	| H3K09me3.bam	| Control.bam
 A549	| H4K20me1	| H4K20me1.bam	| Control.bam
+
+## Графики ChromHMM
+ Название | График
+ --- | ---
+ Emission | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/emissions_15.png) 
+ Transition | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/transitions_15.png)
+ Overlap | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_overlap.png)
+ RefSeqTSS | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTSS_neighborhood.png)
+ RefSeqTES | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTES_neighborhood.png)
