@@ -35,10 +35,14 @@ A549	| H3K09me3	| H3K09me3.bam	| Control.bam
 A549	| H4K20me1	| H4K20me1.bam	| Control.bam
 
 ## Графики ChromHMM
- Название | График
- --- | ---
- Emission | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/emissions_15.png) 
- Transition | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/transitions_15.png)
- Overlap | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_overlap.png)
- RefSeqTSS | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTSS_neighborhood.png)
- RefSeqTES | ![Img](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTES_neighborhood.png)
+
+  <p>
+    <img src="https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/emissions_15.png" alt="Фотография" width="320" height="500">
+    <img src="https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/transitions_15.png" alt="Фотография" width="320" height="500">
+    <img src="https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_overlap.png" alt="Фотография" width="320" height="500">
+  </p>
+    <p>
+    <img src="https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTSS_neighborhood.png" alt="Фотография" width="470" height="370">
+    <img src="https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/data/A549_15_RefSeqTES_neighborhood.png" alt="Фотография" width="470" height="370">
+  </p>
+  
