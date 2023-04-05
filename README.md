@@ -50,9 +50,9 @@ A549	| H4K20me1	| H4K20me1.bam	| Control.bam
   
   Тип | Название | Описание | Картинка
  --- | --- | ---| ---
-1 | Repressed | <ul><li> наиболее выражен в H3K27me3 </li><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима) </li><li> попадает на интрон </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/1.png)
-2 | Heterochromatin | <ul><li> не попадает на ген  </li><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима) </li><li> попадает на интрон </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/2.png)
-3 | Heterochromatin | <ul><li> наиболее выражен в H3K9me3 </li><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима) </li><li> попадает на интрон </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/3.png)
+1 | Repressed | <ul><li> наиболее выражен в H3K27me3 </li><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима) </li><li> не попадает на ген </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/1.png)
+2 | Heterochromatin | <ul><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима)  </li><li> не попадает на ген </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/2.png)
+3 | Heterochromatin | <ul><li> наиболее выражен в H3K9me3 </li><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима) </li><li> не попадает на ген </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/3.png)
 4 | Weak transcribed | <ul><li> наиболее выражен в H3K9me3, H3K36me3, менее выражен в H3K79me2 </li><li> чаще попадает на RefSeqGene, RefSeqTES, реже на RefSeqExon </li><li> попадает на экзон или интрон </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/4.png)
 5 | Weak transcribed | <ul><li> наиболее выражен в H3K36me3 </li><li> чаще попадает на RefSeqTES, RefSeqGene, реже на RefSeqExon </li><li> попадает на экзон или интрон </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/5.png)
 6 | Weak transcribed | <ul><li> наиболее выражен в H3K79me2, менее выражен в H4K20me1, H3K36me3 </li><li> чаще попадает на RefSeqGene </li><li> попадает на интрон </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/6.png)
