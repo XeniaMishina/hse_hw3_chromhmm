@@ -68,7 +68,7 @@ A549	| H4K20me1	| H4K20me1.bam	| Control.bam
 
 ## Бонус
 
-- код для бонусной части находится в том же [Google Colab](https://colab.research.google.com/drive/1VchHZvC4e_xKI_uDGyqCLTHOeINZ8aHz?usp=sharing)
+- Код для бонусной части находится в том же [Google Colab](https://colab.research.google.com/drive/1VchHZvC4e_xKI_uDGyqCLTHOeINZ8aHz?usp=sharing)
 
 - Получившийся файл очень большой, его архив есть на [github](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/extra/A549_15_dense_with_names.bed.zip), полный файл можно посмотреть на [google drive](https://drive.google.com/file/d/1r32b15zEj0ffOSGZ13p9edjgd3a8iQt4/view?usp=sharing).
 
