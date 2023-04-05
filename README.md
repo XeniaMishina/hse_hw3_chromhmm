@@ -65,3 +65,11 @@ A549	| H4K20me1	| H4K20me1.bam	| Control.bam
 13 | Strong/weak enhancer | <ul><li> наиболее выражен в H3K4me1, H3K4me2, H3K4me3, H3K27ac, H3K9ac, H3K79me2 </li><li> чаще попадает на RefSeqTES, RefSeqGene </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/13.png)
 14 | Weak Enhancer | <ul><li> наиболее выражен в H3K4me1, H3K4me2 </li><li> чаще попадает на RefSeqTES, RefSeqGene и laminB1lads(участок репрессированного гетерохроматима) </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/14.png)
 15 | Weak Enhancer | <ul><li> наиболее выражен в H3K4me2, менее выражен в H3K4me3, H3K27me3 </li><li> чаще попадает на laminB1lads(участок репрессированного гетерохроматима),  RefSeqTSS2Kb, CpGIslands, реже на RefSeqTES, RefSeqTSS, RefSeqExon </li> | ![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/screens/15.png)
+
+## Бонус
+
+- Получившийся файл очень большой, его архив есть на [github](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/extra/A549_15_dense_with_names.bed.zip), полный файл можно посмотреть на [google drive](https://drive.google.com/file/d/1r32b15zEj0ffOSGZ13p9edjgd3a8iQt4/view?usp=sharing).
+
+- Скриншот из http://genome.ucsc.edu с добавленными именами состояний.
+![Image](https://github.com/XeniaMishina/hse_hw3_chromhmm/blob/main/extra/screen_bonus.png)
+
